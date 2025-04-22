@@ -3,10 +3,10 @@ import requests
 url = "http://127.0.0.1:8000/inference"
 
 data = {
-    "sepal_length": 2.1,
-    "sepal_width": 1.5,
-    "petal_length": 4.4,
-    "petal_width": 0.2
+    "sepal_length": 5.1,
+    "sepal_width": 3.7,
+    "petal_length": 1.4,
+    "petal_width": 2.1
 }
 
 response = requests.post(url,json=data)
