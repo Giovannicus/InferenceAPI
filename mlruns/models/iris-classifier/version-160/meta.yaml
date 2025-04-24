@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745424697830
+current_stage: Staging
+description: null
+last_updated_timestamp: 1745424698317
+name: iris-classifier
+run_id: cdf1c687dff84681a2fe376de7b82930
+run_link: null
+source: runs:/cdf1c687dff84681a2fe376de7b82930/iris_model
+status: READY
+status_message: null
+storage_location: runs:/cdf1c687dff84681a2fe376de7b82930/iris_model
+user_id: null
+version: 160

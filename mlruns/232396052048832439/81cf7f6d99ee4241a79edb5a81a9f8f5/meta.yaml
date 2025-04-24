@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/232396052048832439/81cf7f6d99ee4241a79edb5a81a9f8f5/artifacts
+end_time: 1745423282816
+entry_point_name: ''
+experiment_id: '232396052048832439'
+lifecycle_stage: active
+run_id: 81cf7f6d99ee4241a79edb5a81a9f8f5
+run_name: RF-trees100-depthNone
+run_uuid: 81cf7f6d99ee4241a79edb5a81a9f8f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745423277795
+status: 3
+tags: []
+user_id: root
